@@ -31,3 +31,4 @@ C:\Users\corve\OneDrive - TRICENTIS\Desktop\Sealights\DemoApp\VehicleInsuranceAp
 C:\Users\corve\OneDrive - TRICENTIS\Desktop\Sealights\DemoApp\VehicleInsuranceApp\InsuranceApi\obj\Debug\net8.0\InsuranceApi.pdb
 C:\Users\corve\OneDrive - TRICENTIS\Desktop\Sealights\DemoApp\VehicleInsuranceApp\InsuranceApi\obj\Debug\net8.0\InsuranceApi.genruntimeconfig.cache
 C:\Users\corve\OneDrive - TRICENTIS\Desktop\Sealights\DemoApp\VehicleInsuranceApp\InsuranceApi\obj\Debug\net8.0\ref\InsuranceApi.dll
+C:\Users\corve\OneDrive - TRICENTIS\Desktop\Sealights\DemoApp\VehicleInsuranceApp\InsuranceApi\obj\Debug\net8.0\InsuranceApi.sourcelink.json
